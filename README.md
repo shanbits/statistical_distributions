@@ -34,3 +34,5 @@ Calculations:
 *Median
 *Housing    
 *Guassian
+
+candy code will explain the distrubition accross all the brand
